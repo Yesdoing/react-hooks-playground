@@ -2,4 +2,4 @@
 - [hooks 공식문서](https://reactjs.org/docs/hooks-intro.html)
 
 ## 토이프로젝트 List
-    1. [Counter](./counter/)
+  1. [Counter](./counter/)
